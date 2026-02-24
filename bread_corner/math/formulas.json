@@ -1,0 +1,22 @@
+[
+  { "id": "math_001", "keyword": "$a^2 + b^2 = c^2$", "description": "피타고라스의 정리 (직각삼각형 세 변의 관계)" },
+  { "id": "math_002", "keyword": "$(a+b)^2 = a^2 + 2ab + b^2$", "description": "완전제곱식 (합의 제곱)" },
+  { "id": "math_003", "keyword": "$(a-b)^2 = a^2 - 2ab + b^2$", "description": "완전제곱식 (차의 제곱)" },
+  { "id": "math_004", "keyword": "$(a+b)(a-b) = a^2 - b^2$", "description": "합차 공식" },
+  { "id": "math_005", "keyword": "$y = ax + b$", "description": "일차함수의 식 (a: 기울기, b: y절편)" },
+  { "id": "math_006", "keyword": "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$", "description": "이차방정식의 근의 공식" },
+  { "id": "math_007", "keyword": "$S = \\pi r^2$", "description": "원의 넓이 공식 (r: 반지름)" },
+  { "id": "math_008", "keyword": "$L = 2\\pi r$", "description": "원의 둘레 공식 (r: 반지름)" },
+  { "id": "math_009", "keyword": "$V = \\frac{1}{3}Sh$", "description": "뿔의 부피 (S: 밑넓이, h: 높이)" },
+  { "id": "math_010", "keyword": "$S = 4\\pi r^2$", "description": "구의 겉넓이 공식 (r: 반지름)" },
+  { "id": "math_011", "keyword": "$V = \\frac{4}{3}\\pi r^3$", "description": "구의 부피 공식 (r: 반지름)" },
+  { "id": "math_012", "keyword": "$\\sqrt{a} \\times \\sqrt{b} = \\sqrt{ab}$", "description": "제곱근의 곱셈 (a, b > 0)" },
+  { "id": "math_013", "keyword": "$\\sqrt{a^2} = |a|$", "description": "제곱근의 성질" },
+  { "id": "math_014", "keyword": "$\\sin A = \\frac{\\text{높이}}{\\text{빗변}}$", "description": "삼각비 - 사인 (sin)" },
+  { "id": "math_015", "keyword": "$\\cos A = \\frac{\\text{밑변}}{\\text{빗변}}$", "description": "삼각비 - 코사인 (cos)" },
+  { "id": "math_016", "keyword": "$\\tan A = \\frac{\\text{높이}}{\\text{밑변}}$", "description": "삼각비 - 탄젠트 (tan)" },
+  { "id": "math_017", "keyword": "$n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$", "description": "합집합의 원소의 개수" },
+  { "id": "math_018", "keyword": "$y = a(x-p)^2 + q$", "description": "이차함수의 표준형 (p, q는 꼭짓점의 좌표)" },
+  { "id": "math_019", "keyword": "$\\text{평균} = \\frac{\\text{변량의 총합}}{\\text{변량의 개수}}$", "description": "산술 평균의 정의" },
+  { "id": "math_020", "keyword": "$a(b+c) = ab + ac$", "description": "분배법칙" }
+]

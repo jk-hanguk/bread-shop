@@ -1,0 +1,37 @@
+[
+  {
+    "id": "science-chemistry-elements",
+    "name": "원소기호",
+    "path": "bread_corner/science/chemistry/elements.json",
+    "category": "과학/화학",
+    "description": "중학교 과학 필수 원소기호 25종"
+  },
+  {
+    "id": "science-chemistry-ions",
+    "name": "이온식",
+    "path": "bread_corner/science/chemistry/ions.json",
+    "category": "과학/화학",
+    "description": "중학교 과학 필수 이온식 20종"
+  },
+  {
+    "id": "science-chemistry-chemicals",
+    "name": "화학식",
+    "path": "bread_corner/science/chemistry/chemicals.json",
+    "category": "과학/화학",
+    "description": "중학교 과학 필수 화학식 15종"
+  },
+  {
+    "id": "math-formulas",
+    "name": "중학 수학 공식",
+    "path": "bread_corner/math/formulas.json",
+    "category": "수학",
+    "description": "중학교 수학 필수 공식 (피타고라스, 곱셈공식 등)"
+  },
+  {
+    "id": "english-words",
+    "name": "중학 필수 영단어",
+    "path": "bread_corner/english/words.json",
+    "category": "영어",
+    "description": "중학교 수준의 핵심 영단어 5선"
+  }
+]
